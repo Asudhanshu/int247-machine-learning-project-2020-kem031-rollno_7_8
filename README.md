@@ -11,4 +11,4 @@ the style statistics of the style reference image. These statistics are extracte
 
 Example:
 Content and Style, and then follows resulting image at different epochs 100,200,300 respectively.
-<a href="https://lh4.googleusercontent.com/np8EZnEOc4OSlaIa1yN-BlM-mfkIyvC7jueyrQxh4adSaw41yA5hMXKsGwcNLAok0xHB8Kip7MOxkPK4V1BtQW2s5wJXieSF5UQ2Cjp3LXDJejNKlvY=w1280">Link</a>
+<a href="https://lh4.googleusercontent.com/np8EZnEOc4OSlaIa1yN-BlM-mfkIyvC7jueyrQxh4adSaw41yA5hMXKsGwcNLAok0xHB8Kip7MOxkPK4V1BtQW2s5wJXieSF5UQ2Cjp3LXDJejNKlvY=w1280">Image Link</a>
