@@ -1,4 +1,4 @@
-Project:----****Painting style transfer to selfies and other photos OR Neural style transfer****
+Project:----**Painting style transfer to selfies and other photos OR Neural style transfer**
 
 **Concept:**
 Neural style transfer is an optimization technique used to take two images
