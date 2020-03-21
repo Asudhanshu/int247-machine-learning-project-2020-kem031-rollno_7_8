@@ -10,10 +10,10 @@ This is implemented by optimizing the output image to match the content statisti
 the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
 
 **Example:**
-![Content](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/3/content3.jpg)
-![Style](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/3/style2.jpg)
-![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/3/100.png)
-![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/3/200.png)
+![ContentAndStyle](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/00/2inone.png)
+![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/00/Figure_2.png)
+![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/00/Figure_4.png)
+![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/00/Figure_8.png)
 ![content](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/Jon%20snow/content6.jpg)
 ![style](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/Jon%20snow/style6.jpg)
 ![output](https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-rollno_7_8/master/outputs/Jon%20snow/Figure_3.png)
